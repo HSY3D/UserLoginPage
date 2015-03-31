@@ -4,12 +4,12 @@ trytoo is the XAMPP version.
 
 a2 is the SOCS version.
 
-usernames 		  password
+usernames 		  /password
 
-hsyed				root
+hsyed				/root
 
-noob				slayer
+noob				/slayer
 
-pokemon			    master
+pokemon			    /master
 
-admin				password
+admin				/password
